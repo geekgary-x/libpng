@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnEdit": false,
+    "cmake.configureArgs" : [
+        "-DZLIB_ROOT=Z:/Program Files/zlib",
+    ],
+}
